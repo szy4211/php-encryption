@@ -6,9 +6,6 @@
  * author zornshuai@foxmail.com
  */
 
-namespace App\Services;
-
-
 class Des
 {
     protected $key;
